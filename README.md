@@ -1,7 +1,7 @@
 # File-Sharing-Application
 ## Introduction
 The [File Sharing Application](https://file-sharing-application.netlify.app/login)
-It's an File Sharing Application where users can do login, signup, file uploads, download, file sharing, and other file related tasks.
+it's an File Sharing Application where users can do login, signup, file uploads, download, file sharing, and other file related tasks.
 
 ## Objectives
 ● Validate that users can register and log in securely.
